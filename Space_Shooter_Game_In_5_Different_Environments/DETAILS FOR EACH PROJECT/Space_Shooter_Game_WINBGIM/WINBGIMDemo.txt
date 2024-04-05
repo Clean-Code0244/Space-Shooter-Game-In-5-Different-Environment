@@ -1,0 +1,31 @@
+This code is used to develop a game in the C language. The code creates a graphical window using the Graphics Library, graphics.h, and 
+then plays an interactive game on this window with a spaceship and enemies. The game responds to keyboard 
+inputs (using the kbhit() and getch() functions) from the player.
+
+Through functions, the specific components and logic of the game are as follows:
+
+The functions drawPlayer(), drawBullet(int i), and drawEnemy(int i) are used to draw the spaceship, bullets, and 
+enemies on the graphic screen.
+
+The initializeGame() function sets the initial state of the game. It determines the starting position of the spaceship and randomly 
+generates the starting positions of bullets and enemies.
+
+The movePlayer(int direction) function controls the direction of the spaceship.
+
+The fireBullet() function fires a bullet from the spaceship.
+
+The moveBullets() and moveEnemies() functions control the movements of bullets and enemies.
+
+The checkCollision() function checks for collisions between bullets and enemies and performs necessary actions if a collision occurs.
+
+The displayGameOver() function draws a screen displaying the end of the game and the final score.
+
+The main() function continuously calls these functions in a loop to keep the game running. While the game is ongoing, it receives 
+input from the keyboard and performs appropriate actions. The game loop continues until the player's lives drop to zero. 
+When lives reach zero, the displayGameOver() function is called to show the end of the game, and the game loop terminates.
+
+
+
+
+
+

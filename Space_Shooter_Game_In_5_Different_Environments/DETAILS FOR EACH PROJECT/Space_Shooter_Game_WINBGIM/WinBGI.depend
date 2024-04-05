@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1711604204 source:c:\users\a\desktop\c projects\winbgi\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<conio.h>
+	<dos.h>
+

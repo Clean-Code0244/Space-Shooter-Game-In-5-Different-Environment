@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(20,38): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(20,24): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(21,38): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(21,24): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(22,33): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(22,16): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(29,43): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(29,27): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(30,43): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(30,27): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(31,43): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(31,27): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(32,43): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(32,27): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(39,42): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(39,26): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(40,42): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(40,26): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(41,42): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(41,26): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(42,42): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(42,26): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(47,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(158,55): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(161,17): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(169,88): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(169,54): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(171,17): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(178,92): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(178,54): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\a\source\repos\Opengltest\Opengltest\main.cpp(181,21): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  Opengltest.vcxproj -> C:\Users\a\source\repos\Opengltest\x64\Debug\Opengltest.exe

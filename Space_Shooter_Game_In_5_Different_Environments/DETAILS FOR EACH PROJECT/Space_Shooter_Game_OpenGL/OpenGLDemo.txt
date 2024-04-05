@@ -1,0 +1,49 @@
+Initialization and Game Window Settings:
+
+The game window is initialized using the GLUT library in the main function.
+The window title is set to "Space Shooter".
+The initial size of the game is set to 800x600 pixels.
+Variables and Constants:
+
+Variables and constants used within the game are defined.
+MAX_BULLETS: Maximum number of bullets that can be on the screen at the same time.
+ENEMY_COUNT: Number of enemies that can be visible on the screen at the same time.
+BASE_ENEMY_SPEED: Initial speed of enemies.
+Drawing Game Objects:
+
+Game objects are drawn using the drawPlayer, drawBullet, and drawEnemy functions.
+The spaceship, bullets, and enemies are drawn with different colors and geometric shapes.
+Game Initialization and Initial Object Positions:
+
+The initializeGame function sets up the initial state of the game.
+The spaceship's initial position is centered and placed at a fixed height above.
+The initial positions of bullets and enemies are randomly determined.
+Player Movements:
+
+The movePlayer function allows the player to move based on keyboard inputs.
+The player moves left and right using the left and right arrow keys.
+Firing Bullets:
+
+The fireBullet function enables the player to shoot bullets.
+Pressing the spacebar fires a bullet.
+Movement of Objects:
+
+The moveBullets and moveEnemies functions control the movement of bullets and enemies.
+Bullets move downward from the top of the screen, while enemies move upward from the bottom.
+Collision Detection:
+
+The checkCollision function checks if two objects collide.
+It checks for collisions between bullets and enemies and between the player and enemies.
+Game State and Screen Updates:
+
+The display function draws the game screen.
+If the game is ongoing, the player, bullets, enemies, and score are drawn on the screen.
+When the game ends, "GAME OVER!" and the score are displayed on the screen.
+The update function periodically updates the game screen.
+Keyboard Inputs:
+
+The keyboard and specialKeyboard functions handle keyboard inputs.
+Pressing the spacebar fires bullets, and the left and right arrow keys move the player.
+This way, your code creates a simple space shooter game where the player controls a spaceship to evade enemies and destroy them. 
+The player earns points by shooting enemies with bullets, and if enemies hit the player, the player loses health. 
+If the player loses all health, the game ends.

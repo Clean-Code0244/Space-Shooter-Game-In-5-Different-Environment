@@ -1,0 +1,22 @@
+This code designs a simple space shooter game called "SpaceShooter" and implements its functionality through the following steps:
+
+Libraries and Definitions: First, the necessary libraries (iostream, conio, windows.h, vector, ctime) are included, and necessary definitions are made. 
+These include variables such as the position of the spaceship using the "Coordinate" structure, the size of the game area, the position of the spaceship, score, game state, etc.
+
+SpaceShooter Class: The SpaceShooter class, which forms the basis of the game, is defined. 
+This class contains the necessary functions for the player to control the spaceship, destroy enemies, fire bullets, and manage other objects.
+
+Main Function: The beginning of the game, the introduction screen, and the game loop are included in this section. 
+Instructions on how to play the game are provided on the introduction screen. Then, the game loop is entered, which checks whether the game has ended.
+
+User Input: Within the game loop, input is taken from the user. The user can move the spaceship left and right using the left and 
+right arrow keys, fire bullets by pressing the space bar, and exit the game by pressing the Esc key.
+
+Movement of Enemies and Bullets: Every turn, the positions of enemies and bullets are updated. 
+Bullets are removed if they collide with enemies or exit the game area. Enemies move downward and are removed when they reach the bottom of the screen.
+
+Stars: Stars, one of the visual elements of the game, are added as a background. 
+Every turn, the positions of the stars are updated, and when they leave the screen, they are randomly placed again.
+
+Game Over: The game loop checks whether the game has ended. When the game ends, "GAME OVER" and the player's score are printed on the screen.
+
